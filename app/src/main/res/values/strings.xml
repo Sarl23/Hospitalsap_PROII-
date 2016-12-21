@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HospitalSAPP</string>
+    <string name="texto">Hola Mundo</string>
+    <string name="vacío"> </string>
+    <string name="menu">Menú </string>
+    <string name="title_activity_consult">ConsultActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Hombre">Hombre</string>
+    <string name="Mujer">Mujer</string>
+    <string name="Otro">Otro</string>
+
+
+</resources>
